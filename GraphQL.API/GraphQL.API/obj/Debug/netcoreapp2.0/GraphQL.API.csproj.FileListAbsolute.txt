@@ -1,0 +1,11 @@
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\bin\Debug\netcoreapp2.0\GraphQL.API.deps.json
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\bin\Debug\netcoreapp2.0\GraphQL.API.runtimeconfig.json
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\bin\Debug\netcoreapp2.0\GraphQL.API.runtimeconfig.dev.json
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\bin\Debug\netcoreapp2.0\GraphQL.API.dll
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\obj\Debug\netcoreapp2.0\GraphQL.API.csprojResolveAssemblyReference.cache
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\obj\Debug\netcoreapp2.0\GraphQL.API.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\obj\Debug\netcoreapp2.0\GraphQL.API.AssemblyInfoInputs.cache
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\obj\Debug\netcoreapp2.0\GraphQL.API.AssemblyInfo.cs
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\bin\Debug\netcoreapp2.0\GraphQL.API.pdb
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\obj\Debug\netcoreapp2.0\GraphQL.API.dll
+C:\Users\kanaka\Documents\Visual Studio 2017\Projects\GraphQL.API\GraphQL.API\obj\Debug\netcoreapp2.0\GraphQL.API.pdb
