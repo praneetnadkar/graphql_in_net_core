@@ -44,4 +44,21 @@ This is how the API in .net looks like:
 
 Thats it ! The rest of the things will come under the Types, Schema and Queries.
 
+# Postman request
+{ 
+ "query":
+  "query{
+     category(id:1){
+        id
+       products{
+       	id
+       	name
+       	price
+       }
+     }
+   }"
+}
+
+Fire this with post type and use tha above query in the body
+
 Refer to the code base on how to create types, schema and queries in .net using GraphQL
